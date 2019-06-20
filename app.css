@@ -1,0 +1,39 @@
+
+
+body {
+  background-image: linear-gradient( rgba(0,0,0,.1), rgba(0,0,0,1) ) ,url(https://images.unsplash.com/photo-1543928612-0b3a1a5d9223?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: 'Comzel', serif;
+
+}
+
+h1 {
+  text-align: center;
+  padding-top: 15%;
+  letter-spacing: 4px;
+}
+
+hr {
+  border-top: 1px solid white;
+  width: 300px;
+}
+
+#comingsoon {
+  color: white;
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.section1 {
+  text-align: center;
+  color: white;
+  padding-bottom: 15%;
+}
+
+
+.container1 {
+  text-align: center;
+}
